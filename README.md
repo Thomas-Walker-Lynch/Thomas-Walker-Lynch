@@ -8,6 +8,7 @@
 + tm - a common Lisp iteration library, formalization of concepts for the "Tom's Turing Complete Architecture" book
 + liquid - proof of principle code for research paper on search
 + only-one - initial exploration of building file system that does not duplicate files, used here as an archive tool
++ pcp - scratch work when studying unix permissions related to umask and shared directories
 
 for my profile see https://thomas-walker-lynch.com/
 
