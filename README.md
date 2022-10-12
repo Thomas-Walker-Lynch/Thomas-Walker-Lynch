@@ -11,7 +11,7 @@
 + pcp - scratch work when studying unix permissions related to umask and shared directories
 + Wavefront_0 - scratch work contemplating using LLVM or C instruction sequences for the stackless execution code
 
-for my profile see https://thomas-walker-lynch.com/
+for my professional profile see https://thomas-walker-lynch.com/
 
 <!---
 Thomas-Walker-Lynch/Thomas-Walker-Lynch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
