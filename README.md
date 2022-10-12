@@ -9,6 +9,7 @@
 + liquid - proof of principle code for research paper on search
 + only-one - initial exploration of building file system that does not duplicate files, used here as an archive tool
 + pcp - scratch work when studying unix permissions related to umask and shared directories
++ Wavefront_0 - scratch work contemplating using LLVM or C instruction sequences for the stackless execution code
 
 for my profile see https://thomas-walker-lynch.com/
 
